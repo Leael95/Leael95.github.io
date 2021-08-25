@@ -1,4 +1,4 @@
-const characters = ["Android 16", "Android 17", "Android 18", "Android 21", "Bardock", "Beerus", "Broly Z", "DBS Broly", "Captain Ginyu", "Cell", "Cooler", "Frieza" , "Blue Gogeta", "SSJ4 Gogeta", "Teen Gohan", "Adult Gohan", "Goku", "SSJ Goku", "SSGSS Goku", "UI Goku", "GT Goku", "Goku Black", "Gotenks", "Hit", "Janemba", "Jiren", "Kefla", "Kid Buu", "Krilin", "Majin Buu", "Master Roshi", "Nappa", "Piccolo", "Super Baby 2", "Tien", "Trunks", "Vegeta", "SSJ Vegeta", "SSGSS Vegeta", "Vegito", "Videl", "Yamcha", "Zamasu"]
+const characters = ["Android 16", "Android 17", "Android 18", "Android 21", "Bardock", "Beerus", "Broly Z", "DBS Broly", "Captain Ginyu", "Cell", "Cooler", "Frieza" , "SSGSS Gogeta", "SSJ4 Gogeta", "Teen Gohan", "Adult Gohan", "Goku", "SSJ Goku", "SSGSS Goku", "UI Goku", "GT Goku", "Goku Black", "Gotenks", "Hit", "Janemba", "Jiren", "Kefla", "Kid Buu", "Krilin", "Majin Buu", "Master Roshi", "Nappa", "Piccolo", "Super Baby 2", "Tien", "Trunks", "Vegeta", "SSJ Vegeta", "SSGSS Vegeta", "Vegito", "Videl", "Yamcha", "Zamasu"]
 
 randomTeam();
 
